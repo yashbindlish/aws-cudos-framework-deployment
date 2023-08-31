@@ -7,6 +7,6 @@ AWS Cost Anomaly Detection uses advanced Machine Learning to identify anomalous 
 
 # Architecture
 
-![](../Images/Arc.png)
+![Architecture](./Images/Arc.png)
 
 
