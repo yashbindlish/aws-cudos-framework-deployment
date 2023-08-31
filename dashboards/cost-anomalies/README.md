@@ -7,6 +7,6 @@ AWS Cost Anomaly Detection uses advanced Machine Learning to identify anomalous 
 
 # Architecture
 
-[![Architecture](https://github.com/yashbindlish/aws-cudos-framework-deployment/tree/main/dashboards/cost-anomalies/Images/Arc.png)
+![](/Images/Arc.png)
 
 
