@@ -1,4 +1,4 @@
-# Cloud Anomaly Dashboards (CUDOS Framework)
+# Cloud Anomaly Dashboard (CUDOS Framework)
 
 ## Introduction
 
